@@ -1,0 +1,7 @@
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\bin\Debug\ConAppAssignmentRegex.exe.config
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\bin\Debug\ConAppAssignmentRegex.exe
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\bin\Debug\ConAppAssignmentRegex.pdb
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\obj\Debug\ConAppAssignmentRegex.csproj.AssemblyReference.cache
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\obj\Debug\ConAppAssignmentRegex.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\obj\Debug\ConAppAssignmentRegex.exe
+C:\DOT NET\Day 8\ConAppAssignmentRegex\ConAppAssignmentRegex\obj\Debug\ConAppAssignmentRegex.pdb
